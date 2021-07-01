@@ -11,9 +11,9 @@
    id="Layer_1"
    x="0px"
    y="0px"
-   width="400"
+   width="512"
    height="1024"
-   viewBox="0 0 400 1024"
+   viewBox="0 0 512 1024"
    enable-background="new 0 0 512 512"
    xml:space="preserve"
    inkscape:version="0.48.0 r9654"
@@ -63,9 +63,9 @@
    inkscape:window-height="814"
    id="namedview68"
    showgrid="false"
-   inkscape:zoom="0.53833632"
-   inkscape:cx="331.87419"
-   inkscape:cy="364.09124"
+   inkscape:zoom="0.26916816"
+   inkscape:cx="771.47445"
+   inkscape:cy="469.41355"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -73,7 +73,7 @@
    
 	<g
    id="Grid"
-   transform="matrix(0.78461477,0,0,1.9868061,-1.4161501,3.2679768)">
+   transform="matrix(1.0055845,0,0,1.9868061,-1.4161501,3.2679768)">
 		<rect
    x="0"
    stroke-miterlimit="10"
